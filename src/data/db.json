@@ -1,0 +1,526 @@
+{
+  "carsFines": [
+    {
+      "id": "1",
+      "violation_code": 2107,
+      "violation_title": "پارک در محل ممنوع",
+      "violation_location": "زرند کرمان - خیابان چمران",
+      "date": "2014-11-17",
+      "serial": 811416,
+      "payment_id": "000003003",
+      "receipt_id": "141633",
+      "license_plate": "ایران 68 - 349 الف 12",
+      "amount": 400000
+    },
+    {
+      "id": "2",
+      "violation_code": 2106,
+      "violation_title": "نبستن کمربند ایمنی",
+      "violation_location": "چترود - پلیس چترود",
+      "date": "2015-04-01 11:15",
+      "serial": 212873,
+      "payment_id": "0000060",
+      "receipt_id": "287307",
+      "license_plate": "ایران 45 - 782 ب 24",
+      "amount": 300000
+    },
+    {
+      "id": "3",
+      "violation_code": 2102,
+      "violation_title": "حرکت مارپیچ",
+      "violation_location": "چترود به چترود",
+      "date": "2016-03-29 12:30",
+      "serial": 217008,
+      "payment_id": "555513550",
+      "receipt_id": "700820",
+      "license_plate": "ایران 12 - 563 ج 35",
+      "amount": 3000000
+    },
+    {
+      "id": "4",
+      "violation_code": 2108,
+      "violation_title": "عبور از خط عابر پیاده",
+      "violation_location": "کرمان - ت سمیه",
+      "date": "2018-08-18 17:59",
+      "serial": 92371,
+      "payment_id": "000004880",
+      "receipt_id": "371543",
+      "license_plate": "ایران 89 - 157 د 48",
+      "amount": 800000
+    },
+    {
+      "id": "5",
+      "violation_code": 2103,
+      "violation_title": "سبقت غیرمجاز",
+      "violation_location": "کرمان - ت سمیه",
+      "date": "2018-08-18 17:59",
+      "serial": 923715,
+      "payment_id": "000005695",
+      "receipt_id": "371543",
+      "license_plate": "ایران 74 - 921 س 51",
+      "amount": 1500000
+    },
+    {
+      "id": "6",
+      "violation_code": 2117,
+      "violation_title": "رانندگی بدون گواهینامه",
+      "violation_location": "کرمان - خ با قدرت",
+      "date": "2019-02-29 18:00",
+      "serial": 24120,
+      "payment_id": "000002002",
+      "receipt_id": "412054",
+      "license_plate": "ایران 32 - 784 الف 62",
+      "amount": 2500000
+    },
+    {
+      "id": "7",
+      "violation_code": 2107,
+      "violation_title": "پارک در محل ممنوع",
+      "violation_location": "تهران - خیابان ولیعصر",
+      "date": "2021-01-10 08:30",
+      "serial": 678901,
+      "payment_id": "000012345",
+      "receipt_id": "234567",
+      "license_plate": "ایران 59 - 246 ب 73",
+      "amount": 400000
+    },
+    {
+      "id": "8",
+      "violation_code": 2101,
+      "violation_title": "تجاوز از سرعت مجاز",
+      "violation_location": "تهران - بزرگراه چمران",
+      "date": "2021-02-15 18:45",
+      "serial": 789012,
+      "payment_id": "000013456",
+      "receipt_id": "345678",
+      "license_plate": "ایران 93 - 517 ج 84",
+      "amount": 2500000
+    },
+    {
+      "id": "9",
+      "violation_code": 2103,
+      "violation_title": "سبقت غیرمجاز",
+      "violation_location": "تهران - میدان فاطمی",
+      "date": "2021-03-20 14:20",
+      "serial": 890123,
+      "payment_id": "000014567",
+      "receipt_id": "456789",
+      "license_plate": "ایران 21 - 834 د 95",
+      "amount": 1500000
+    },
+    {
+      "id": "10",
+      "violation_code": 2110,
+      "violation_title": "رانندگی در لاین اشتباه",
+      "violation_location": "تهران - بزرگراه یادگار امام",
+      "date": "2021-04-25 11:00",
+      "serial": 901234,
+      "payment_id": "000015678",
+      "receipt_id": "567890",
+      "license_plate": "ایران 67 - 328 س 10",
+      "amount": 1200000
+    },
+    {
+      "id": "11",
+      "violation_code": 2101,
+      "violation_title": "تجاوز از سرعت مجاز",
+      "violation_location": "کرمان - میدان جمهوری",
+      "date": "2021-05-01 09:30",
+      "serial": 999001,
+      "payment_id": "000016789",
+      "receipt_id": "567891",
+      "license_plate": "ایران 68 - 349 الف 12",
+      "amount": 2500000
+    },
+    {
+      "id": "12",
+      "violation_code": 2102,
+      "violation_title": "حرکت مارپیچ",
+      "violation_location": "کرمان - میدان آزادی",
+      "date": "2021-05-05 14:00",
+      "serial": 999002,
+      "payment_id": "000016790",
+      "receipt_id": "567892",
+      "license_plate": "ایران 45 - 782 ب 24",
+      "amount": 3000000
+    },
+    {
+      "id": "13",
+      "violation_code": 2103,
+      "violation_title": "سبقت غیرمجاز",
+      "violation_location": "کرمان - بزرگراه کمال",
+      "date": "2021-05-10 16:45",
+      "serial": 999003,
+      "payment_id": "000016791",
+      "receipt_id": "567893",
+      "license_plate": "ایران 12 - 563 ج 35",
+      "amount": 1500000
+    },
+    {
+      "id": "14",
+      "violation_code": 2104,
+      "violation_title": "عبور از چراغ قرمز",
+      "violation_location": "کرمان - خیابان بهار",
+      "date": "2021-05-15 18:20",
+      "serial": 999004,
+      "payment_id": "000016792",
+      "receipt_id": "567894",
+      "license_plate": "ایران 89 - 157 د 48",
+      "amount": 2000000
+    },
+    {
+      "id": "15",
+      "violation_code": 2105,
+      "violation_title": "استفاده از تلفن همراه در حین رانندگی",
+      "violation_location": "کرمان - خیابان امام",
+      "date": "2021-05-20 20:30",
+      "serial": 999005,
+      "payment_id": "000016793",
+      "receipt_id": "567895",
+      "license_plate": "ایران 74 - 921 س 51",
+      "amount": 500000
+    },
+    {
+      "id": "16",
+      "violation_code": 2109,
+      "violation_title": "نبستن کلاه ایمنی",
+      "violation_location": "کرمان - میدان کارگر",
+      "date": "2021-05-25 11:00",
+      "serial": 999006,
+      "payment_id": "000016794",
+      "receipt_id": "567896",
+      "license_plate": "ایران 32 - 784 الف 62",
+      "amount": 100000
+    },
+    {
+      "id": "17",
+      "violation_code": 2112,
+      "violation_title": "نداشتن مدارک خودرو",
+      "violation_location": "کرمان - خیابان علمدار",
+      "date": "2021-05-30 12:15",
+      "serial": 999007,
+      "payment_id": "000016795",
+      "receipt_id": "567897",
+      "license_plate": "ایران 59 - 246 ب 73",
+      "amount": 500000
+    },
+    {
+      "id": "18",
+      "violation_code": 2111,
+      "violation_title": "بوق زدن غیرمجاز",
+      "violation_location": "کرمان - میدان شهید بهشتی",
+      "date": "2021-06-01 09:45",
+      "serial": 999008,
+      "payment_id": "000016796",
+      "receipt_id": "567898",
+      "license_plate": "ایران 93 - 517 ج 84",
+      "amount": 150000
+    },
+    {
+      "id": "19",
+      "violation_code": 2113,
+      "violation_title": "رانندگی با سرعت بالا",
+      "violation_location": "کرمان - بزرگراه شهید قاسم سلیمانی",
+      "date": "2021-06-10 15:00",
+      "serial": 999009,
+      "payment_id": "000016797",
+      "receipt_id": "567899",
+      "license_plate": "ایران 21 - 834 د 95",
+      "amount": 2000000
+    },
+    {
+      "id": "20",
+      "violation_code": 2108,
+      "violation_title": "عبور از خط عابر پیاده",
+      "violation_location": "کرمان - خیابان معلم",
+      "date": "2021-06-15 10:30",
+      "serial": 999010,
+      "payment_id": "000016798",
+      "receipt_id": "567900",
+      "license_plate": "ایران 67 - 328 س 10",
+      "amount": 800000
+    },
+    {
+      "id": "ce06",
+      "amount": 32513213212,
+      "violation_title": "2121231",
+      "violation_code": 2018
+    },
+    {
+      "id": "981c",
+      "amount": 32513213212,
+      "violation_title": "2121231",
+      "violation_code": 2018
+    },
+    {
+      "id": "86fb",
+      "amount": 32513213212,
+      "violation_title": "2121231",
+      "violation_code": 2018
+    },
+    {
+      "id": "b2a9",
+      "amount": 32513213212,
+      "violation_title": "2121231",
+      "violation_code": 2018
+    },
+    {
+      "id": "975c",
+      "amount": 30000000,
+      "violation_title": "رانندگی در حالت مستی",
+      "violation_code": 2021
+    },
+    {
+      "id": "cd41",
+      "amount": 30000000,
+      "violation_title": "رانندگی در حالت مستی",
+      "violation_code": 2121
+    },
+    {
+      "id": "8bed",
+      "amount": 30000000,
+      "violation_title": "رانندگی در حالت مستی",
+      "violation_code": 2121
+    },
+    {
+      "id": "e02b",
+      "amount": 30000000,
+      "violation_title": "رانندگی در حالت مستی",
+      "violation_code": 2121
+    },
+    {
+      "id": "19f5",
+      "amount": 30000000,
+      "violation_title": "رانندگی در حالت مستی",
+      "violation_code": 2121
+    },
+    {
+      "id": "30cb",
+      "amount": 30000000,
+      "violation_title": "رانندگی در حالت مستی",
+      "violation_code": 2121
+    },
+    {
+      "id": "a50b",
+      "amount": 30000000,
+      "violation_title": "رانندگی در حالت مستی",
+      "violation_code": 2121
+    },
+    {
+      "id": "eb90",
+      "amount": 30000000,
+      "violation_title": "رانندگی در حالت مستی",
+      "violation_code": 2121
+    },
+    {
+      "id": "f04c",
+      "amount": 30000000,
+      "violation_title": "رانندگی در حالت مستی",
+      "violation_code": 2121
+    },
+    {
+      "id": "245d",
+      "amount": 564564564545,
+      "violation_title": "dsfsdfsdf",
+      "violation_code": 2021
+    },
+    {
+      "id": "1090",
+      "amount": 564564564545,
+      "violation_title": "dsfsdfsdf",
+      "violation_code": 2021
+    },
+    {
+      "id": "4d55",
+      "amount": 545454545,
+      "violation_title": "xzczxczxc",
+      "violation_code": 2120
+    },
+    {
+      "id": "33d5",
+      "amount": 545454545,
+      "violation_title": "xzczxczxc",
+      "violation_code": 2120
+    },
+    {
+      "id": "29bf",
+      "amount": 545454545,
+      "violation_title": "xzczxczxc",
+      "violation_code": 2120
+    }
+  ],
+  "cars": [
+    {
+      "license_plate": "ایران 45 - 782 ب 24",
+      "id": "2"
+    },
+    {
+      "license_plate": "ایران 12 - 563 ج 35",
+      "id": "3"
+    },
+    {
+      "license_plate": "ایران 89 - 157 د 48",
+      "id": "4"
+    },
+    {
+      "license_plate": "ایران 74 - 921 س 51",
+      "id": "5"
+    },
+    {
+      "license_plate": "ایران 32 - 784 الف 62",
+      "id": "6"
+    },
+    {
+      "license_plate": "ایران 59 - 246 ب 73",
+      "id": "7"
+    },
+    {
+      "license_plate": "ایران 93 - 517 ج 84",
+      "id": "8"
+    },
+    {
+      "license_plate": "ایران 21 - 834 د 95",
+      "id": "9"
+    },
+    {
+      "license_plate": "ایران 67 - 328 س 10",
+      "id": "10"
+    },
+    {
+      "id": "73d8",
+      "license_plate": "ایران 36 - 518 پ 18"
+    },
+    {
+      "license_plate": "ایران 68 - 349 الف 12",
+      "id": "f154"
+    }
+  ],
+  "fines": [
+    {
+      "id": "402e",
+      "violation_code": 2101,
+      "violation_title": "تجاوز از سرعت مجاز",
+      "amount": 5500000
+    },
+    {
+      "violation_code": 2102,
+      "violation_title": "حرکت مارپیچ",
+      "amount": 3000000,
+      "id": "91ac"
+    },
+    {
+      "violation_code": 2103,
+      "violation_title": "سبقت غیرمجاز",
+      "amount": 1500000,
+      "id": "274f"
+    },
+    {
+      "violation_code": 2104,
+      "violation_title": "عبور از چراغ قرمز",
+      "amount": 2000000,
+      "id": "aa33"
+    },
+    {
+      "violation_code": 2105,
+      "violation_title": "استفاده از تلفن همراه در حین رانندگی",
+      "amount": 500000,
+      "id": "8c68"
+    },
+    {
+      "violation_code": 2106,
+      "violation_title": "نبستن کمربند ایمنی",
+      "amount": 300000,
+      "id": "d625"
+    },
+    {
+      "violation_code": 2107,
+      "violation_title": "پارک در محل ممنوع",
+      "amount": 400000,
+      "id": "02f6"
+    },
+    {
+      "violation_code": 2108,
+      "violation_title": "عبور از خط عابر پیاده",
+      "amount": 800000,
+      "id": "5dcd"
+    },
+    {
+      "violation_code": 2109,
+      "violation_title": "نبستن کلاه ایمنی",
+      "amount": 100000,
+      "id": "74dc"
+    },
+    {
+      "violation_code": 2110,
+      "violation_title": "رانندگی در لاین اشتباه",
+      "amount": 1200000,
+      "id": "a4bf"
+    },
+    {
+      "violation_code": 2111,
+      "violation_title": "بوق زدن غیرمجاز",
+      "amount": 150000,
+      "id": "549d"
+    },
+    {
+      "violation_code": 2112,
+      "violation_title": "نداشتن مدارک خودرو",
+      "amount": 500000,
+      "id": "094f"
+    },
+    {
+      "violation_code": 2113,
+      "violation_title": "نصب پلاک غیرمجاز",
+      "amount": 2000000,
+      "id": "beae"
+    },
+    {
+      "violation_code": 2114,
+      "violation_title": "حرکت نمایشی با خودرو",
+      "amount": 5000000,
+      "id": "5b91"
+    },
+    {
+      "violation_code": 2115,
+      "violation_title": "عبور از چراغ زرد",
+      "amount": 700000,
+      "id": "0e09"
+    },
+    {
+      "violation_code": 2116,
+      "violation_title": "ورود ممنوع",
+      "amount": 600000,
+      "id": "85f5"
+    },
+    {
+      "violation_code": 2117,
+      "violation_title": "رانندگی بدون گواهینامه",
+      "amount": 2500000,
+      "id": "dc90"
+    },
+    {
+      "violation_code": 2118,
+      "violation_title": "نبستن درب خودرو",
+      "amount": 200000,
+      "id": "a81c"
+    },
+    {
+      "violation_code": 2119,
+      "violation_title": "حرکت با دنده عقب",
+      "amount": 1000000,
+      "id": "d2a0"
+    },
+    {
+      "violation_code": 2120,
+      "violation_title": "ایجاد آلودگی صوتی",
+      "amount": 350000,
+      "id": "58ea"
+    },
+    {
+      "id": "52de",
+      "amount": 30000000,
+      "violation_title": "رانندگی در حالت مستی",
+      "violation_code": 2121
+    }
+  ]
+}

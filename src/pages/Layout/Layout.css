@@ -1,0 +1,41 @@
+.main{
+    height: 100vh;
+    max-width: 1440px;
+    margin: 0 auto;
+    
+}
+
+.navbar{
+    width: 100%;
+    height: 60px;
+    border: 1px solid #6738be;
+    /* border: 1px solid #df363f; */
+
+    border-radius: 8px;
+    padding: 10px 40px;
+    margin: 2em 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+    list-style-type: none;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.navbar a{
+    color: #230d4b;
+    text-decoration: none;
+}
+
+@media (max-width: 960px) {
+    .navbar{
+        width: 90%;
+        padding: 10px 5px;
+        margin: 2em auto;
+        gap: 15px;
+        font-size: 12px;
+        font-weight: 800;
+
+    }
+}

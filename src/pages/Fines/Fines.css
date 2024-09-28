@@ -1,0 +1,20 @@
+.fines{
+    margin-bottom: 5rem;
+
+}
+
+.fines .add{
+    border: 1px solid #6738be;
+    border-radius: 8px;
+    width: 150px;
+    height: 48px;
+    font-size: 20px;
+    background:#fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+    gap:5px;
+    text-decoration: none;
+
+}

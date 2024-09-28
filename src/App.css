@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+@font-face {
+  font-family: 'AnjomanMaxFN';
+  src: url('./fonts/AnjomanMaxFN-Thin.woff2') format('woff2'),
+       url('./fonts/AnjomanMaxFN-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AnjomanMaxFN';
+  src: url('./fonts/AnjomanMaxFN-Light.woff2') format('woff2'),
+       url('./fonts/AnjomanMaxFN-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AnjomanMaxFN';
+  src: url('./fonts/AnjomanMaxFN-Regular.woff2') format('woff2'),
+       url('./fonts/AnjomanMaxFN-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AnjomanMaxFN';
+  src: url('./fonts/AnjomanMaxFN-Medium.woff2') format('woff2'),
+       url('./fonts/AnjomanMaxFN-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AnjomanMaxFN';
+  src: url('./fonts/AnjomanMaxFN-SemiBold.woff2') format('woff2'),
+       url('./fonts/AnjomanMaxFN-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AnjomanMaxFN';
+  src: url('./fonts/AnjomanMaxFN-Bold.woff2') format('woff2'),
+       url('./fonts/AnjomanMaxFN-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AnjomanMaxFN';
+  src: url('./fonts/AnjomanMaxFN-Black.woff2') format('woff2'),
+       url('./fonts/AnjomanMaxFN-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
